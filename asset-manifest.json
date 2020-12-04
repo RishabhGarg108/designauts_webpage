@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/designauts_webpage/static/css/main.fcd12773.chunk.css",
+    "main.js": "/designauts_webpage/static/js/main.fef30230.chunk.js",
+    "main.js.map": "/designauts_webpage/static/js/main.fef30230.chunk.js.map",
+    "runtime-main.js": "/designauts_webpage/static/js/runtime-main.2e1043b9.js",
+    "runtime-main.js.map": "/designauts_webpage/static/js/runtime-main.2e1043b9.js.map",
+    "static/css/2.2a86faee.chunk.css": "/designauts_webpage/static/css/2.2a86faee.chunk.css",
+    "static/js/2.e3d4458d.chunk.js": "/designauts_webpage/static/js/2.e3d4458d.chunk.js",
+    "static/js/2.e3d4458d.chunk.js.map": "/designauts_webpage/static/js/2.e3d4458d.chunk.js.map",
+    "index.html": "/designauts_webpage/index.html",
+    "precache-manifest.86119d86bf70782a100c4584802b1e61.js": "/designauts_webpage/precache-manifest.86119d86bf70782a100c4584802b1e61.js",
+    "service-worker.js": "/designauts_webpage/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/designauts_webpage/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.fcd12773.chunk.css.map": "/designauts_webpage/static/css/main.fcd12773.chunk.css.map",
+    "static/js/2.e3d4458d.chunk.js.LICENSE.txt": "/designauts_webpage/static/js/2.e3d4458d.chunk.js.LICENSE.txt",
+    "static/media/Title.css": "/designauts_webpage/static/media/background.1a9eb0bb.jpeg",
+    "static/media/logo.png": "/designauts_webpage/static/media/logo.8020692b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e1043b9.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.e3d4458d.chunk.js",
+    "static/css/main.fcd12773.chunk.css",
+    "static/js/main.fef30230.chunk.js"
+  ]
+}
